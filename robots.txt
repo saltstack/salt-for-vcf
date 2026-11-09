@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://saltstack.github.io/salt-for-vcf/sitemap.xml

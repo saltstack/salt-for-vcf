@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://saltstack.github.io/salt-for-vcf/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://saltstack.github.io/salt-for-vcf/</loc>
+</url>
+<url>
+<loc>https://saltstack.github.io/salt-for-vcf/configuring-the-hybrid-architecture/</loc>
+<lastmod>2026-11-04T20:00:25-05:00</lastmod>
+</url>
+<url>
+<loc>https://saltstack.github.io/salt-for-vcf/examples/</loc>
+<lastmod>2026-11-04T20:00:38-05:00</lastmod>
+</url>
+<url>
+<loc>https://saltstack.github.io/salt-for-vcf/raas-cli/</loc>
+<lastmod>2026-11-04T19:52:31-05:00</lastmod>
+</url>
+<url>
+<loc>https://saltstack.github.io/salt-for-vcf/the-hybrid-salt-architecture/</loc>
+<lastmod>2026-11-04T20:00:14-05:00</lastmod>
+</url>
+<url>
+<loc>https://saltstack.github.io/salt-for-vcf/the-hybrid-salt-model/</loc>
+<lastmod>2026-11-04T20:02:28-05:00</lastmod>
+</url>
+<url>
+<loc>https://saltstack.github.io/salt-for-vcf/the-salt-appliance-for-vcf/</loc>
+<lastmod>2026-11-04T19:07:15-05:00</lastmod>
+</url>
+<url>
+<loc>https://saltstack.github.io/salt-for-vcf/the-salt-for-vcf-state-and-jinja-file-generator-vcf-911/</loc>
+<lastmod>2026-11-04T19:07:34-05:00</lastmod>
+</url>
+<url>
+<loc>https://saltstack.github.io/salt-for-vcf/the-tools/</loc>
+<lastmod>2026-11-04T20:02:52-05:00</lastmod>
+</url>
+</urlset>

@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "salt-for-vcf",
+    "description": "",
+    "home_page_url": "https://saltstack.github.io/salt-for-vcf",
+    "feed_url": "https://saltstack.github.io/salt-for-vcf/feed.json",
+    "user_comment": "",
+    "icon": "https://saltstack.github.io/salt-for-vcf/media/website/SaltProject_altlogo_blue.png",
+    "author": {
+        "name": "Frances Wong"
+    },
+    "items": [
+    ]
+}
